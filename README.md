@@ -49,6 +49,8 @@ Routing: Google OR-Tools capacitated vehicle routing, from the FPO collection po
 Maps: OpenStreetMap
 Payments: UPI (test mode for the prototype), held until delivery is confirmed
 Language: Tamil text templates for WhatsApp; voice via Bhashini APIs as a stretch goal
+![Uploading image.png…]()
+
 
 ## Feasibility and Viability
 1. Feasibility
